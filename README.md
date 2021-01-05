@@ -5,14 +5,16 @@
 
 ## Cài đặt 
 https://github.com/graphhopper/graphhopper/blob/0.13/docs/core/windows-setup.md
+### Cần môi trường JAVA
+ * Make sure you have the latest JDK installed and not only the JRE
+ * For me JAVA_HOME was not correct so I had to overwrite it before calling
+   the `graphhopper.sh` script:
+   ```bash
+   export JAVA_HOME=/cygdrive/c/Programme/Java/jdk1.8.0_77
+   ```
 ##
-$ git clone https://github.com/graphhopper/graphhopper.git
 
-# go into graphhopper root
-$ cd graphhopper
-
-# and execute
+###
 $ ./graphhopper.sh -a web -i europe_germany_berlin.pbf
 ------------
-europe_germany_berlin.pbf Là dữ liệu bản đồ theo khu vực
-THIEU GI THI CAI NAY roi chay la OK
+### europe_germany_berlin.pbf Là dữ liệu bản đồ theo khu vực
