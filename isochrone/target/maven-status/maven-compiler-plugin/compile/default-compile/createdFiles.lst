@@ -1,0 +1,6 @@
+com\graphhopper\isochrone\algorithm\Triangulation.class
+com\graphhopper\isochrone\algorithm\ContourBuilder$1.class
+com\graphhopper\isochrone\algorithm\ContourBuilder.class
+com\graphhopper\isochrone\algorithm\ShortestPathTree$IsoLabel.class
+com\graphhopper\isochrone\algorithm\ShortestPathTree$ExploreType.class
+com\graphhopper\isochrone\algorithm\ShortestPathTree.class

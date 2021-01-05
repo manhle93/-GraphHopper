@@ -1,0 +1,5 @@
+com\graphhopper\http\resources\RootResource.class
+com\graphhopper\http\GraphHopperServerConfiguration.class
+com\graphhopper\http\cli\ImportCommand.class
+com\graphhopper\http\GraphHopperApplication.class
+com\graphhopper\http\CORSFilter.class

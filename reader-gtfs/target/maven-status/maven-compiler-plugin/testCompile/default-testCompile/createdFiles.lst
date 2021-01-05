@@ -1,0 +1,11 @@
+com\graphhopper\gtfs\fare\FareTest.class
+com\graphhopper\reader\gtfs\WrapperGraphTest.class
+com\graphhopper\gtfs\fare\FareTest$1.class
+com\graphhopper\ExtendedRouteTypeIT.class
+com\graphhopper\GraphHopperMultimodalIT.class
+com\graphhopper\reader\gtfs\TransfersTest.class
+com\graphhopper\AnotherAgencyIT.class
+com\graphhopper\GraphHopperGtfsIT.class
+com\graphhopper\reader\gtfs\GraphExplorerTest.class
+com\graphhopper\RealtimeIT.class
+com\graphhopper\gtfs\fare\FareTest$2.class
