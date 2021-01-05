@@ -17,4 +17,4 @@ https://github.com/graphhopper/graphhopper/blob/0.13/docs/core/windows-setup.md
 ###
 $ ./graphhopper.sh -a web -i europe_germany_berlin.pbf
 ------------
-### europe_germany_berlin.pbf Là dữ liệu bản đồ theo khu vực
+### europe_germany_berlin.pbf Là file dữ liệu bản đồ theo khu vực
